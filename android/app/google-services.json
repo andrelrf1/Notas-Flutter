@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577149443428",
+    "firebase_url": "https://flutter-app-3207c.firebaseio.com",
+    "project_id": "flutter-app-3207c",
+    "storage_bucket": "flutter-app-3207c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577149443428:android:84b91b779f645d2d032e71",
+        "android_client_info": {
+          "package_name": "com.grupopadrao.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577149443428-ttv03sgeuelje0teonlekh6845plqneq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfuzpZIiotOkmO34OMh3SDyaT5ufwBoLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577149443428-ttv03sgeuelje0teonlekh6845plqneq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
